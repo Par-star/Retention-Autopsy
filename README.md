@@ -8,6 +8,9 @@ video's transcript and uses an LLM to diagnose each steep drop — weak hook, sl
 intro, tangent, repetition, ad/CTA fatigue, confusing explanation — and gives you
 a concrete edit suggestion for each one.
 
+🎬 **Video demo:** [Watch on YouTube](https://www.youtube.com/watch?v=D2n8HJ3oXtY)
+
+
 ## What it does
 
 1. **Parse** a YouTube Studio "Audience retention" CSV export
